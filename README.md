@@ -12,3 +12,4 @@ Make file contains commands needed.
 
 * `make run` Runs the program
 Elle was here
+{Alexandra} was here
