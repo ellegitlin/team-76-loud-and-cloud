@@ -12,6 +12,7 @@ Make file contains commands needed.
 
 * `make run` Runs the program
 <<<<<<< HEAD
+<<<<<<< HEAD
 Elle was here
 {Alexandra} was here
 Tristan was here
@@ -22,3 +23,6 @@ Lavanya Poduri was here
 >>>>>>> dc05170 (Test commit)
 Test
 Tristan was here
+=======
+Will was here.
+>>>>>>> b7ca03d (Test commit)
