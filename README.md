@@ -15,7 +15,9 @@ Make file contains commands needed.
 Elle was here
 {Alexandra} was here
 Tristan was here
-This text is to test another input methodLavanya was here
+This text is to test another input method
+Lavanya was here
 =======
 Lavanya Poduri was here
 >>>>>>> dc05170 (Test commit)
+Test
