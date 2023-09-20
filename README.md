@@ -14,6 +14,7 @@ Make file contains commands needed.
 <<<<<<< HEAD
 <<<<<<< HEAD
 Elle was here
+<<<<<<< HEAD
 {Alexandra} was here
 Tristan was here
 This text is to test another input method
@@ -24,5 +25,5 @@ Lavanya Poduri was here
 Test
 Tristan was here
 =======
-Will was here.
->>>>>>> b7ca03d (Test commit)
+Elle was here
+>>>>>>> e07d742 (Test commit)
