@@ -1,4 +1,4 @@
 #This is the character python file
 
-class Character():
+class Character:
     name = "Dee Folt"
