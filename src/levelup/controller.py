@@ -7,6 +7,14 @@ class GameStatus:
     character_name: str = "Character"
     move_count: int = 0
     running: bool = False
+    current_position: tuple = (-100-100)
+
+    def set_character_position(self, xycoordinates: tuple) -> None:
+        x = xycoordinates[0]
+        y = xycoordinates[1]
+        self.character.current_position = Position(x,y)
+        self.status.current_position = xycoordinates
+
 
 class Direction(Enum):
     NORTH = "n"
