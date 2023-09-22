@@ -4,8 +4,8 @@ from fake_map import FakeMap
 from levelup.controller import Direction
 
 class TestCharacterInitWithName(TestCase):
+    ARBITRARY_NAME = "MyName"
     def test_init(self):
-        ARBITRARY_NAME = "MyName"
         testobj = Character(ARBITRARY_NAME)
         self.assertEqual(ARBITRARY_NAME, testobj.name)
 
