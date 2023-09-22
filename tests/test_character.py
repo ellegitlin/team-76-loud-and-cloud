@@ -5,7 +5,7 @@ from levelup.controller import Direction
 
 class TestCharacterInitWithName(TestCase):
     ARBITRARY_NAME = "MyName"
-    def test_init(self):
+    def test_setCharName(self):
         testobj = Character(ARBITRARY_NAME)
         self.assertEqual(ARBITRARY_NAME, testobj.name)
 
