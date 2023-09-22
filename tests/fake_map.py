@@ -1,4 +1,4 @@
-from levelup.gamemap import Map
+from levelup.map import Map
 from levelup.position import Position
 from levelup.controller import Direction
 
